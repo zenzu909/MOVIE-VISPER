@@ -1,6 +1,7 @@
 {
   "name": "MOVIE VISPER",
   "description": "A WhatsApp User Bot for Movies",
+   "repository": "https://github.com/sadasthemi/MOVIE-VISPER",
   "logo": "https://mv-visper-full-db.pages.dev/Data/visper_main.jpeg",
   "keywords": ["bot"],
   "success_url": "/",
