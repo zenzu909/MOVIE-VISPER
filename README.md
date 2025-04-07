@@ -42,7 +42,7 @@
   <br>
  ## DEPLOY ☁️ 
  
- [![Deploy on Heroku](https://img.shields.io/badge/Deploy-brightgreen?style=for-the-badge)](https://movie-visper-offical-web-ntvx.vercel.app/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2Fsadasthemi%2MOVIE-VISPER)
  <br>
   <br>
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/MjUXiK?referralCode=gsm0oL)
