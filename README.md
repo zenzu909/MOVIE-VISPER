@@ -42,7 +42,7 @@
   <br>
  ## DEPLOY ☁️ 
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2Fsadasthemi%2MOVIE-VISPER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sadasthemi/MOVIE-VISPER)
  <br>
   <br>
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/MjUXiK?referralCode=gsm0oL)
