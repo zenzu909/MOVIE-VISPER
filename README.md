@@ -46,6 +46,12 @@
  <br>
   <br>
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/MjUXiK?referralCode=gsm0oL)
+<br>
+  <br>
+
+[![Deploy on Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/sadasthemi/MOVIE-VISPER)
+
+
  <br>
   <br>
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=&branch=name&name=servicename)
