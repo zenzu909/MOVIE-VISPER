@@ -26,7 +26,7 @@
 ---
 
 ### Visit the official Movie Visper website for deployment instruction:
-**[» Official Website](https://movie-visper-offical-web-ntvx.vercel.app/)**
+**[» Official Website](https://movie-visper-official-iota.vercel.app/)**
 
 ---
 
@@ -34,10 +34,10 @@
 **[» Join Beta Test Group]([https://chat.whatsapp.com/](https://chat.whatsapp.com/HZQqAPRYjLlL0zuY9p3E1h))**
 
 ## GET SESSION ID ☁️
- [![Deploy on Heroku](https://img.shields.io/badge/SERVER-01-brightgreen?style=for-the-badge)](https://movie-visper-offical-web-ntvx.vercel.app/)
+ [![Deploy on Heroku](https://img.shields.io/badge/SERVER-01-brightgreen?style=for-the-badge)](https://disturbing-marketa-suddapatta-1196257a.koyeb.app/)
  <br>
 
- [![Deploy on Heroku](https://img.shields.io/badge/SERVER-02-brightgreen?style=for-the-badge)](https://movie-visper-offical-web-ntvx.vercel.app/)
+ [![Deploy on Heroku](https://img.shields.io/badge/SERVER-02-brightgreen?style=for-the-badge)](https://movie-visper-session-section-production-7722.up.railway.app/)
  <br>
   <br>
  ## DEPLOY ☁️ 
@@ -46,7 +46,9 @@
  <br>
   <br>
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/MjUXiK?referralCode=gsm0oL)
----
+ <br>
+  <br>
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=&branch=name&name=servicename)
 
 ## 👩‍💻 Movie Visper Team - VisperInc *[Since 2025]*
 
