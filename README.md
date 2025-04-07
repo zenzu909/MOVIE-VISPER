@@ -17,7 +17,7 @@
 ---
 
 ## ✨ Features
-- 🎥 **Search Movies**: Easily find movies by name or keyword.
+- 🎥 **Search Movies**: EasilLy find movies by name or keyword.
 - 📺 **Stream Movies**: Get high-quality streaming links.
 - 📥 **Download Movies**: Choose between multiple formats and resolutions.
 - 📊 **Detailed Movie Info**: IMDb ratings, cast, and trailers.
